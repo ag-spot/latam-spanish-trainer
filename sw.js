@@ -1,5 +1,5 @@
-const CACHE='latam-v10';
-const ASSETS=['./','./index.html','./app.js?v=10','./phrases.json','./manifest.webmanifest','./icon.svg'];
+const CACHE='latam-v11';
+const ASSETS=['./','./index.html','./app.js?v=11','./phrases.json','./manifest.webmanifest','./icon.svg'];
 self.addEventListener('install',event=>{
  event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)).then(()=>self.skipWaiting()));
 });
