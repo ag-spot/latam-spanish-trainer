@@ -2075,7 +2075,23 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Разговорный синоним trabajar."
+    "context": "Разговорный синоним trabajar.",
+    "bookPage": "IMG_6949-l",
+    "examples": [
+      [
+        "Voy a laburar desde casa hasta el mediodía.",
+        "Я буду работать из дома до полудня."
+      ],
+      [
+        "Si te toca laburar el sábado, podemos vernos el domingo.",
+        "Если тебе придётся работать в субботу, можем встретиться в воскресенье."
+      ],
+      [
+        "Empecé a laburar en ese bar cuando me mudé al barrio.",
+        "Я начал работать в том баре, когда переехал в этот район."
+      ]
+    ],
+    "bookText": "laburar [v] {Italian} to work"
   },
   {
     "id": 186,
@@ -2087,7 +2103,23 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Значение суммы зависит от страны."
+    "context": "Значение суммы зависит от страны.",
+    "bookPage": "IMG_6949-r",
+    "examples": [
+      [
+        "Me cobraron una luca por arreglar la rueda de la bici.",
+        "С меня взяли тысячу за ремонт велосипедного колеса."
+      ],
+      [
+        "Si juntamos una luca más, nos alcanza para las entradas.",
+        "Если соберём ещё тысячу, нам хватит на билеты."
+      ],
+      [
+        "Por una luca conseguimos una mesa usada para la cocina.",
+        "За тысячу мы нашли подержанный стол для кухни."
+      ]
+    ],
+    "bookText": "luca [f] an amount of one thousand, usually money"
   },
   {
     "id": 187,
@@ -2111,7 +2143,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "Буквально мелкий грызун."
+    "context": "Буквально мелкий грызун.",
+    "bookPage": "IMG_6949-l",
+    "bookText": "laucha [f] mouse; a rat of a person"
   },
   {
     "id": 189,
@@ -2123,7 +2157,23 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "В зависимости от контекста."
+    "context": "В зависимости от контекста.",
+    "examples": [
+      [
+        "El mate ya está lavado, mejor cambiamos la yerba.",
+        "Мате уже выдохся, лучше заменим йербу."
+      ],
+      [
+        "Cuando el mate está lavado, el agua sale casi sin sabor.",
+        "Когда мате выдохся, вода получается почти без вкуса."
+      ],
+      [
+        "Después de tantas rondas, hasta el mate más fuerte queda lavado.",
+        "После стольких кругов даже самый крепкий мате выдыхается."
+      ]
+    ],
+    "bookPage": "IMG_6949-l",
+    "bookText": "lavado [adj] lit. washed; used to describe the state of the mate when the yerba has become diluted and no longer desirable. *see: mate culture"
   },
   {
     "id": 190,
@@ -2169,7 +2219,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Контекст решает."
+    "context": "Контекст решает.",
+    "bookPage": "IMG_6949-r",
+    "bookText": "lomo [m] lit. a cut of beef, loin; used to describe a nice body"
   },
   {
     "id": 194,
@@ -2181,7 +2233,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Также lunfardo."
+    "context": "Также lunfardo.",
+    "bookPage": "IMG_6949-r",
+    "bookText": "lungo/a [adj] a tall and thin person; lanky; also “hacer lunga” to be annoyingly slow"
   },
   {
     "id": 195,
@@ -2193,7 +2247,23 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Типичное одобрение."
+    "context": "Типичное одобрение.",
+    "bookPage": "IMG_6949-r",
+    "examples": [
+      [
+        "El vecino es macanudo y nos ayudó a subir el sillón.",
+        "Сосед — славный парень, он помог нам поднять диван."
+      ],
+      [
+        "Me atendió un tipo macanudo que me explicó todo con paciencia.",
+        "Меня обслужил приятный парень, который терпеливо всё объяснил."
+      ],
+      [
+        "Macanudo, entonces te espero a las seis en la puerta del teatro.",
+        "Отлично, тогда жду тебя в шесть у входа в театр."
+      ]
+    ],
+    "bookText": "macanudo/a [adj, excl] [antiquated] 1) someone agreeable, a friendly person; 2) “sounds good” positive response to a deal or arrangement"
   },
   {
     "id": 196,
@@ -2205,7 +2275,23 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "¡Qué macana! — Вот досада!"
+    "context": "¡Qué macana! — Вот досада!",
+    "bookPage": "IMG_6949-r",
+    "examples": [
+      [
+        "Qué macana que se haya suspendido el partido por la lluvia.",
+        "Какая досада, что матч отменили из-за дождя."
+      ],
+      [
+        "Me mandé una macana y reservé la mesa para el día equivocado.",
+        "Я облажался и забронировал столик на другой день."
+      ],
+      [
+        "Nos dimos cuenta de la macana cuando ya habíamos enviado el correo.",
+        "Мы заметили ошибку, когда уже отправили письмо."
+      ]
+    ],
+    "bookText": "macana [f] a mistake, an error. *also: “¡qué macana!” “what a shame”"
   },
   {
     "id": 197,
@@ -2229,7 +2315,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "В другом контексте — мачете."
+    "context": "В другом контексте — мачете.",
+    "bookPage": "IMG_6949-r",
+    "bookText": "machete [n] cheat sheet"
   },
   {
     "id": 199,
@@ -2264,7 +2352,23 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "¡Qué mala leche! — Как не повезло!"
+    "context": "¡Qué mala leche! — Как не повезло!",
+    "bookPage": "IMG_6949-r",
+    "examples": [
+      [
+        "Tuvimos mala leche y se pinchó una rueda en plena ruta.",
+        "Нам не повезло: прямо на трассе прокололи колесо."
+      ],
+      [
+        "Qué mala leche que se cortara la luz justo antes de la reunión.",
+        "Как не повезло, что свет отключился прямо перед встречей."
+      ],
+      [
+        "Con la mala leche que tuvimos ayer, todavía no me explico cómo llegamos a tiempo.",
+        "С учётом того, как нам вчера не везло, я до сих пор не понимаю, как мы приехали вовремя."
+      ]
+    ],
+    "bookText": "mala leche [f] lit. sour milk; bad luck"
   },
   {
     "id": 202,
@@ -2288,7 +2392,21 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Mandarse una macana — накосячить."
+    "context": "Mandarse una macana — накосячить.",
+    "examples": [
+      [
+        "Me mandé una macana al enviar el archivo sin revisarlo.",
+        "Я накосячил, отправив файл без проверки."
+      ],
+      [
+        "Si se manda otra de esas, vamos a tener que hablar con él.",
+        "Если он снова что-нибудь такое выкинет, нам придётся с ним поговорить."
+      ],
+      [
+        "Se mandó un discurso improvisado y terminó emocionando a todos.",
+        "Он толкнул речь без подготовки и в итоге растрогал всех."
+      ]
+    ]
   },
   {
     "id": 204,
@@ -2300,7 +2418,22 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "Разговорное выражение."
+    "context": "Разговорное выражение.",
+    "bookPage": "IMG_6962-r",
+    "examples": [
+      [
+        "Si no sabes cuánto cuesta, no mandes fruta delante del cliente.",
+        "Если не знаешь, сколько это стоит, не выдумывай при клиенте."
+      ],
+      [
+        "En vez de admitir que no sabía, empezó a mandar fruta en la reunión.",
+        "Он мог признаться, что не знает, но начал нести отсебятину на встрече."
+      ],
+      [
+        "Me di cuenta de que estaba mandando fruta cuando cambió la fecha tres veces.",
+        "Я понял, что он выдумывает, когда он трижды поменял дату."
+      ]
+    ]
   },
   {
     "id": 205,
@@ -2359,7 +2492,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Разговорное, иногда фамильярное."
+    "context": "Разговорное, иногда фамильярное.",
+    "bookPage": "IMG_6952-r",
+    "bookText": "mina [f] [lunfardo] a woman (lacks respect)"
   },
   {
     "id": 210,
@@ -2371,7 +2506,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Зависит от контекста."
+    "context": "Зависит от контекста.",
+    "bookPage": "IMG_6952-r",
+    "bookText": "milonga [f] a type of Tango with a faster beat; the clubs where Tango is taught"
   },
   {
     "id": 211,
@@ -2395,7 +2532,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "Разговорное от lunfardo."
+    "context": "Разговорное от lunfardo.",
+    "bookPage": "IMG_6952-r"
   },
   {
     "id": 213,
@@ -2419,7 +2557,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "¡Qué mufa! — Вот невезуха!"
+    "context": "¡Qué mufa! — Вот невезуха!",
+    "bookPage": "IMG_6952-r",
+    "bookText": "mufa [f] bad luck, a bad omen"
   },
   {
     "id": 215,
@@ -2431,7 +2571,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Разговорное."
+    "context": "Разговорное.",
+    "bookPage": "IMG_6952-r"
   },
   {
     "id": 216,
@@ -2479,7 +2620,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 2,
-    "context": "¡Qué ojete! — Ну и повезло!"
+    "context": "¡Qué ojete! — Ну и повезло!",
+    "bookPage": "IMG_6953-l"
   },
   {
     "id": 220,
@@ -2491,7 +2633,22 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Buena onda — позитивный человек / приятная атмосфера."
+    "context": "Buena onda — позитивный человек / приятная атмосфера.",
+    "bookPage": "IMG_6953-l",
+    "examples": [
+      [
+        "En ese bar hay buena onda y se puede hablar sin gritar.",
+        "В том баре приятная атмосфера, и можно говорить без крика."
+      ],
+      [
+        "La chica de recepción tuvo muy buena onda con nosotros.",
+        "Девушка на стойке регистрации была с нами очень приветлива."
+      ],
+      [
+        "No entiendo qué onda con la reserva, porque todavía no me respondieron.",
+        "Не понимаю, что там с бронью: мне всё ещё не ответили."
+      ]
+    ]
   },
   {
     "id": 221,
@@ -2538,7 +2695,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 2,
-    "context": "Грубое оскорбление."
+    "context": "Грубое оскорбление.",
+    "bookPage": "IMG_6953-l"
   },
   {
     "id": 225,
@@ -2550,7 +2708,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Un palo verde — миллион долларов."
+    "context": "Un palo verde — миллион долларов.",
+    "bookPage": "IMG_6954-l"
   },
   {
     "id": 226,
@@ -2562,7 +2721,23 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Зелёные — доллары."
+    "context": "Зелёные — доллары.",
+    "bookPage": "IMG_6954-l",
+    "examples": [
+      [
+        "Dicen que vendió la casa por un palo verde.",
+        "Говорят, он продал дом за миллион долларов."
+      ],
+      [
+        "El inversor puso un palo verde para arrancar el proyecto.",
+        "Инвестор вложил миллион долларов, чтобы запустить проект."
+      ],
+      [
+        "Con un palo verde podríamos comprar el local y reformarlo entero.",
+        "На миллион долларов мы могли бы купить помещение и полностью его отремонтировать."
+      ]
+    ],
+    "bookText": "palo verde [m] lit. a green stick; million dollars"
   },
   {
     "id": 227,
@@ -2574,7 +2749,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "Региональное, зависит от контекста."
+    "context": "Региональное, зависит от контекста.",
+    "bookPage": "IMG_6954-l"
   },
   {
     "id": 228,
@@ -2597,7 +2773,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "Разговорное."
+    "context": "Разговорное.",
+    "bookPage": "IMG_6954-l",
+    "bookText": "paparulo [m] an idiot, a fool of a person"
   },
   {
     "id": 230,
@@ -2621,7 +2799,23 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "¡Qué papelón! — Какой позор!"
+    "context": "¡Qué papelón! — Какой позор!",
+    "bookPage": "IMG_6954-l",
+    "examples": [
+      [
+        "Hice un papelón cuando saludé al novio con el nombre de su hermano.",
+        "Я жутко опозорился, когда назвал жениха именем его брата."
+      ],
+      [
+        "El equipo hizo un papelón y perdió por cinco goles en casa.",
+        "Команда опозорилась и проиграла дома с разницей в пять голов."
+      ],
+      [
+        "Para evitar un papelón, revisé dos veces a quién iba dirigido el mensaje.",
+        "Чтобы не опозориться, я дважды проверил, кому адресовано сообщение."
+      ]
+    ],
+    "bookText": "papelón [m] an embarrassing situation"
   },
   {
     "id": 232,
@@ -2632,7 +2826,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Контекстно."
+    "context": "Контекстно.",
+    "bookPage": "IMG_6954-l"
   },
   {
     "id": 233,
@@ -2643,7 +2838,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Me costó un parto — далось с трудом."
+    "context": "Me costó un parto — далось с трудом.",
+    "bookPage": "IMG_6954-l",
+    "bookText": "parir [v] lit. to give birth; to struggle with something"
   },
   {
     "id": 234,
@@ -2667,7 +2864,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "В Уругвае и Аргентине pava — чайник для воды."
+    "context": "В Уругвае и Аргентине pava — чайник для воды.",
+    "bookPage": "IMG_6952-l"
   },
   {
     "id": 236,
@@ -2783,7 +2981,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "¡Qué pesado! — Как достал!"
+    "context": "¡Qué pesado! — Как достал!",
+    "bookPage": "IMG_6955-l"
   },
   {
     "id": 246,
@@ -2807,7 +3006,21 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Повседневное слово."
+    "context": "Повседневное слово.",
+    "examples": [
+      [
+        "El pibe que vive arriba practica la guitarra todas las tardes.",
+        "Парень, который живёт наверху, каждый день после обеда играет на гитаре."
+      ],
+      [
+        "Cuando era pibe, iba a la playa en bicicleta con mis amigos.",
+        "Когда я был пацаном, мы с друзьями ездили на пляж на велосипеде."
+      ],
+      [
+        "Le pedí al pibe del kiosco que me guardara el paquete.",
+        "Я попросил парня из киоска придержать для меня посылку."
+      ]
+    ]
   },
   {
     "id": 248,
@@ -2854,7 +3067,21 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Очень частое слово."
+    "context": "Очень частое слово.",
+    "examples": [
+      [
+        "El dueño del local fue muy piola y nos dejó entrar antes.",
+        "Хозяин заведения оказался классным и впустил нас пораньше."
+      ],
+      [
+        "Me parece piola la idea de juntarnos después de entrenar.",
+        "Мне нравится идея встретиться после тренировки."
+      ],
+      [
+        "Encontramos un bar piola donde la música no está tan fuerte.",
+        "Мы нашли классный бар, где музыка не такая громкая."
+      ]
+    ]
   },
   {
     "id": 252,
@@ -2912,7 +3139,23 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Разговорное."
+    "context": "Разговорное.",
+    "bookPage": "IMG_6956-r",
+    "examples": [
+      [
+        "Me pidió un pucho mientras esperábamos el ómnibus.",
+        "Он попросил у меня сигарету, пока мы ждали автобус."
+      ],
+      [
+        "Salió a fumarse un pucho antes de volver a la fiesta.",
+        "Он вышел выкурить сигарету перед тем, как вернуться на вечеринку."
+      ],
+      [
+        "Apagó el pucho en el cenicero y entró a buscar su campera.",
+        "Он затушил сигарету в пепельнице и зашёл за курткой."
+      ]
+    ],
+    "bookText": "pucho [m] a cigarette"
   },
   {
     "id": 257,
@@ -2923,7 +3166,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Анатомическое значение."
+    "context": "Анатомическое значение.",
+    "bookPage": "IMG_6956-r"
   },
   {
     "id": 258,
@@ -2935,7 +3179,22 @@
     ],
     "category": "Сленг из книги",
     "rough": 2,
-    "context": "Грубая речь."
+    "context": "Грубая речь.",
+    "bookPage": "IMG_6956-r",
+    "examples": [
+      [
+        "Lo escuché putear cuando se dio cuenta de que había perdido las llaves.",
+        "Я услышал, как он матерится, когда он понял, что потерял ключи."
+      ],
+      [
+        "El técnico empezó a putear al árbitro después del segundo penal.",
+        "После второго пенальти тренер начал материть судью."
+      ],
+      [
+        "Si vas a putear, espera a que se vayan los chicos.",
+        "Если собрался материться, подожди, пока дети уйдут."
+      ]
+    ]
   },
   {
     "id": 259,
@@ -2947,7 +3206,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 2,
-    "context": "Крайне оскорбительное."
+    "context": "Крайне оскорбительное.",
+    "bookPage": "IMG_6956-r"
   },
   {
     "id": 260,
@@ -2995,7 +3255,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Buscarse el rebusque — находить заработок."
+    "context": "Buscarse el rebusque — находить заработок.",
+    "bookPage": "IMG_6957-l"
   },
   {
     "id": 264,
@@ -3017,7 +3278,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Регионально."
+    "context": "Регионально.",
+    "bookPage": "IMG_6957-l"
   },
   {
     "id": 266,
@@ -3040,7 +3302,23 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "В Уругвае очень распространено."
+    "context": "В Уругвае очень распространено.",
+    "bookPage": "IMG_6957-r",
+    "examples": [
+      [
+        "El alquiler está salado para un departamento sin muebles.",
+        "Для квартиры без мебели аренда дороговата."
+      ],
+      [
+        "Nos pareció salado el precio del taxi y volvimos en ómnibus.",
+        "Такси показалось нам дорогим, и мы вернулись на автобусе."
+      ],
+      [
+        "Está salado arreglar el auto, pero lo necesito para trabajar.",
+        "Ремонт машины влетит в копеечку, но она нужна мне для работы."
+      ]
+    ],
+    "bookText": "salado/a [adj] lit. salty; expensive"
   },
   {
     "id": 268,
@@ -3052,7 +3330,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "Также салями."
+    "context": "Также салями.",
+    "bookPage": "IMG_6957-r",
+    "bookText": "salame [m] lit. salami; an idiot, a fool"
   },
   {
     "id": 269,
@@ -3064,7 +3344,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "Разговорное."
+    "context": "Разговорное.",
+    "bookPage": "IMG_6957-r"
   },
   {
     "id": 270,
@@ -3088,7 +3369,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 2,
-    "context": "Грубое оскорбление."
+    "context": "Грубое оскорбление.",
+    "bookPage": "IMG_6957-r",
+    "bookText": "sorete [m] a log of shit; a turd"
   },
   {
     "id": 272,
@@ -3100,7 +3383,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "Разговорное."
+    "context": "Разговорное.",
+    "bookPage": "IMG_6957-r",
+    "bookText": "sopapo [m] a slap in the face"
   },
   {
     "id": 273,
@@ -3207,7 +3492,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Очень распространённое."
+    "context": "Очень распространённое.",
+    "bookPage": "IMG_6959-l",
+    "bookText": "tipo [m] a guy"
   },
   {
     "id": 282,
@@ -3219,7 +3506,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "En un toque — через минуту."
+    "context": "En un toque — через минуту.",
+    "bookPage": "IMG_6959-l"
   },
   {
     "id": 283,
@@ -3231,7 +3519,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Устаревающий разговорный сленг."
+    "context": "Устаревающий разговорный сленг.",
+    "bookPage": "IMG_6959-l",
+    "bookText": "tordo [m] lit. a black bird; a doctor"
   },
   {
     "id": 284,
@@ -3242,7 +3532,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Обычное слово."
+    "context": "Обычное слово.",
+    "bookPage": "IMG_6959-l"
   },
   {
     "id": 285,
@@ -3276,7 +3567,21 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "В Аргентине также целоваться/обжиматься."
+    "context": "В Аргентине также целоваться/обжиматься.",
+    "examples": [
+      [
+        "Tuvieron que transar con el dueño para quedarse un mes más.",
+        "Им пришлось договориться с хозяином, чтобы остаться ещё на месяц."
+      ],
+      [
+        "Los vi transar en la pista cuando se apagaron las luces.",
+        "Я видел, как они целовались на танцполе, когда выключили свет."
+      ],
+      [
+        "Dijo que no pensaba transar con gente que no respetaba el acuerdo.",
+        "Он сказал, что не собирается договариваться с людьми, которые нарушают уговор."
+      ]
+    ]
   },
   {
     "id": 288,
@@ -3335,7 +3640,21 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Muy común."
+    "context": "Muy común.",
+    "examples": [
+      [
+        "La entrada era trucha y no lo dejaron pasar al recital.",
+        "Билет был поддельный, и его не пустили на концерт."
+      ],
+      [
+        "Me quisieron vender un reloj trucho a la salida del metro.",
+        "На выходе из метро мне попытались продать поддельные часы."
+      ],
+      [
+        "Se dio cuenta de que el correo era trucho y no abrió el enlace.",
+        "Он понял, что письмо поддельное, и не открыл ссылку."
+      ]
+    ]
   },
   {
     "id": 293,
@@ -3395,7 +3714,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Социально-культурное выражение."
+    "context": "Социально-культурное выражение.",
+    "bookPage": "IMG_6959-r"
   },
   {
     "id": 298,
@@ -3407,7 +3727,22 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Дать немного сверх покупки."
+    "context": "Дать немного сверх покупки.",
+    "bookPage": "IMG_6959-r",
+    "examples": [
+      [
+        "La vendedora me dio dos mandarinas de yapa.",
+        "Продавщица дала мне две мандаринки в придачу."
+      ],
+      [
+        "El libro venía con una postal de yapa.",
+        "К книге прилагалась открытка в подарок."
+      ],
+      [
+        "Pedimos tres empanadas y nos dieron una cuarta de yapa.",
+        "Мы заказали три эмпанады, а четвёртую нам дали в подарок."
+      ]
+    ]
   },
   {
     "id": 299,
@@ -3419,7 +3754,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 2,
-    "context": "Буквально кобыла."
+    "context": "Буквально кобыла.",
+    "bookPage": "IMG_6959-r"
   },
   {
     "id": 300,
@@ -3431,7 +3767,9 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "Пренебрежительное."
+    "context": "Пренебрежительное.",
+    "bookPage": "IMG_6959-r",
+    "bookText": "yuta [f] [antiquated] police"
   },
   {
     "id": 301,
@@ -3443,7 +3781,22 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Zafé — пронесло."
+    "context": "Zafé — пронесло.",
+    "bookPage": "IMG_6959-r",
+    "examples": [
+      [
+        "Zafé de pagar la multa porque pude demostrar que ya había pagado el estacionamiento.",
+        "Я избежал штрафа, потому что смог доказать, что уже оплатил парковку."
+      ],
+      [
+        "Si encontramos un taxi ahora, todavía podemos zafar de la lluvia.",
+        "Если сейчас найдём такси, ещё можем не попасть под дождь."
+      ],
+      [
+        "El examen era difícil, pero con lo que estudié pude zafar.",
+        "Экзамен был трудным, но мне хватило того, что я выучил, чтобы сдать."
+      ]
+    ]
   },
   {
     "id": 302,
@@ -3455,7 +3808,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 1,
-    "context": "Может быть похвалой или критикой."
+    "context": "Может быть похвалой или критикой.",
+    "bookPage": "IMG_6960-r"
   },
   {
     "id": 303,
@@ -3502,7 +3856,21 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "О скорости движения."
+    "context": "О скорости движения.",
+    "examples": [
+      [
+        "Salimos a las chapas para alcanzar el último tren.",
+        "Мы рванули на всех парах, чтобы успеть на последний поезд."
+      ],
+      [
+        "El auto pasó a las chapas frente a la escuela.",
+        "Машина пронеслась на полной скорости мимо школы."
+      ],
+      [
+        "Venía a las chapas porque se le había hecho tarde para trabajar.",
+        "Он мчался, потому что опаздывал на работу."
+      ]
+    ]
   },
   {
     "id": 307,
@@ -3514,7 +3882,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Идиома."
+    "context": "Идиома.",
+    "bookPage": "IMG_6961-r"
   },
   {
     "id": 308,
@@ -3538,7 +3907,21 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Форма voseo, очень местная."
+    "context": "Форма voseo, очень местная.",
+    "examples": [
+      [
+        "Bajá un cambio, que todavía tenemos tiempo para resolverlo.",
+        "Сбавь обороты, у нас ещё есть время разобраться."
+      ],
+      [
+        "Antes de mandarle ese mensaje, bajá un cambio y lee lo que escribiste.",
+        "Прежде чем отправлять ему сообщение, сбавь обороты и перечитай, что написал."
+      ],
+      [
+        "Bajá un cambio cuando hables con ella, que no tuvo la culpa.",
+        "Сбавь тон, когда будешь с ней говорить, она не виновата."
+      ]
+    ]
   },
   {
     "id": 310,
@@ -3550,7 +3933,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Шутливая поговорка."
+    "context": "Шутливая поговорка.",
+    "bookPage": "IMG_6961-r"
   },
   {
     "id": 311,
@@ -3574,7 +3958,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Местная идиома."
+    "context": "Местная идиома.",
+    "bookPage": "IMG_6961-r"
   },
   {
     "id": 313,
@@ -3586,7 +3971,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Поговорка."
+    "context": "Поговорка.",
+    "bookPage": "IMG_6961-r"
   },
   {
     "id": 314,
@@ -3622,7 +4008,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 2,
-    "context": "Унизительное выражение."
+    "context": "Унизительное выражение.",
+    "bookPage": "IMG_6962-l"
   },
   {
     "id": 317,
@@ -3705,7 +4092,21 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 1,
-    "context": "Очень распространено."
+    "context": "Очень распространено.",
+    "examples": [
+      [
+        "Si el banco no nos aprueba el crédito hoy, estamos en el horno.",
+        "Если банк сегодня не одобрит кредит, нам крышка."
+      ],
+      [
+        "Estuve en el horno cuando me pidieron el documento y lo había dejado en casa.",
+        "Я попал в переплёт, когда у меня попросили документ, а я оставил его дома."
+      ],
+      [
+        "Con el auto roto y el último ómnibus ya perdido, estamos en el horno.",
+        "Машина сломалась, последний автобус ушёл, и мы влипли."
+      ]
+    ]
   },
   {
     "id": 324,
@@ -3753,7 +4154,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Часто о знакомствах."
+    "context": "Часто о знакомствах.",
+    "bookPage": "IMG_6962-r"
   },
   {
     "id": 328,
@@ -3764,7 +4166,22 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Распространённая идиома."
+    "context": "Распространённая идиома.",
+    "bookPage": "IMG_6962-r",
+    "examples": [
+      [
+        "Mi tía habla hasta por los codos cuando cuenta sus viajes.",
+        "Моя тётя болтает без умолку, когда рассказывает о поездках."
+      ],
+      [
+        "El taxista habló hasta por los codos durante todo el viaje.",
+        "Таксист проболтал без умолку всю дорогу."
+      ],
+      [
+        "Cuando están juntos, los dos hablan hasta por los codos y se olvidan de la hora.",
+        "Когда они вместе, оба болтают без умолку и забывают про время."
+      ]
+    ]
   },
   {
     "id": 329,
@@ -3787,7 +4204,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Estoy hasta las manos — я по уши занят."
+    "context": "Estoy hasta las manos — я по уши занят.",
+    "bookPage": "IMG_6962-r"
   },
   {
     "id": 331,
@@ -3811,7 +4229,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 1,
-    "context": "Fulbo — футбол."
+    "context": "Fulbo — футбол.",
+    "bookPage": "IMG_6963-r"
   },
   {
     "id": 333,
@@ -3823,7 +4242,21 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Частое разговорное выражение."
+    "context": "Частое разговорное выражение.",
+    "examples": [
+      [
+        "No da hablar de plata en medio de la fiesta.",
+        "Неуместно обсуждать деньги посреди вечеринки."
+      ],
+      [
+        "No da llegar una hora tarde sin avisar.",
+        "Не дело опаздывать на час и даже не предупредить."
+      ],
+      [
+        "Con este frío no da esperar afuera media hora.",
+        "В такой холод стоять снаружи полчаса — так себе идея."
+      ]
+    ]
   },
   {
     "id": 334,
@@ -3907,7 +4340,8 @@
     ],
     "category": "Сленг из книги",
     "rough": 0,
-    "context": "Региональная фраза, значение зависит от контекста."
+    "context": "Региональная фраза, значение зависит от контекста.",
+    "bookPage": "IMG_6964-r"
   },
   {
     "id": 341,
@@ -3919,7 +4353,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Буквально надеть футболку команды."
+    "context": "Буквально надеть футболку команды.",
+    "bookPage": "IMG_6965-l"
   },
   {
     "id": 342,
@@ -3977,7 +4412,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Идиома."
+    "context": "Идиома.",
+    "bookPage": "IMG_6966-l"
   },
   {
     "id": 347,
@@ -3989,7 +4425,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Региональное."
+    "context": "Региональное.",
+    "bookPage": "IMG_6966-l"
   },
   {
     "id": 348,
@@ -4036,7 +4473,22 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Очень распространённое."
+    "context": "Очень распространённое.",
+    "bookPage": "IMG_6966-l",
+    "examples": [
+      [
+        "Me estás tomando el pelo si dices que pagaste el doble por la misma entrada.",
+        "Ты меня разыгрываешь, если говоришь, что заплатил вдвое больше за тот же билет."
+      ],
+      [
+        "Mis amigos me tomaron el pelo con una invitación falsa.",
+        "Друзья разыграли меня с фальшивым приглашением."
+      ],
+      [
+        "Deja de tomarle el pelo al camarero, que está intentando ayudarnos.",
+        "Перестань подшучивать над официантом, он пытается нам помочь."
+      ]
+    ]
   },
   {
     "id": 352,
@@ -4060,7 +4512,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Сокращённое разговорное."
+    "context": "Сокращённое разговорное.",
+    "bookPage": "IMG_6966-l"
   },
   {
     "id": 354,
@@ -4072,7 +4525,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Идиома."
+    "context": "Идиома.",
+    "bookPage": "IMG_6965-l"
   },
   {
     "id": 355,
@@ -4083,7 +4537,21 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Идиома."
+    "context": "Идиома.",
+    "examples": [
+      [
+        "Si quieres llegar a tiempo con el proyecto, tienes que ponerte las pilas esta semana.",
+        "Если хочешь закончить проект вовремя, на этой неделе придётся поднажать."
+      ],
+      [
+        "Me puse las pilas con el español cuando empecé a vivir en Uruguay.",
+        "Я всерьёз взялся за испанский, когда начал жить в Уругвае."
+      ],
+      [
+        "El equipo se puso las pilas después de perder el primer partido.",
+        "Команда собралась после проигрыша в первом матче."
+      ]
+    ]
   },
   {
     "id": 356,
@@ -4095,7 +4563,8 @@
     ],
     "category": "Идиомы и поговорки",
     "rough": 0,
-    "context": "Популярная идиома."
+    "context": "Популярная идиома.",
+    "bookPage": "IMG_6963-r"
   },
   {
     "id": 357,
