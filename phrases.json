@@ -86,7 +86,21 @@
     ],
     "category": "Ошибки и неприятности",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "La cagué al mandar la factura al cliente equivocado.",
+        "Я облажался и отправил счёт не тому клиенту."
+      ],
+      [
+        "La cagué con la fecha y compré pasajes para el lunes.",
+        "Я напутал с датой и купил билеты на понедельник."
+      ],
+      [
+        "Si le cuentas lo que dije, va a quedar claro que la cagué.",
+        "Если расскажешь ему, что я сказал, станет ясно, что я облажался."
+      ]
+    ]
   },
   {
     "id": 8,
@@ -109,7 +123,21 @@
     ],
     "category": "Ошибки и неприятности",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Qué quilombo se armó cuando anunciaron que se suspendía el recital.",
+        "Какой переполох поднялся, когда объявили, что концерт отменяется."
+      ],
+      [
+        "Qué quilombo tenemos en casa desde que empezó la mudanza.",
+        "Какой у нас дома бардак с тех пор, как начался переезд."
+      ],
+      [
+        "Qué quilombo va a ser llegar al centro con todas esas calles cortadas.",
+        "Как же сложно будет добраться в центр со всеми этими перекрытиями."
+      ]
+    ]
   },
   {
     "id": 10,
@@ -121,7 +149,21 @@
     ],
     "category": "Эмоции",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Qué bajón enterarte del cambio cuando ya estás en el aeropuerto.",
+        "Как же обидно узнать об изменении, когда ты уже в аэропорту."
+      ],
+      [
+        "Qué bajón que se haya roto el saxo justo antes del ensayo.",
+        "Как обидно, что саксофон сломался прямо перед репетицией."
+      ],
+      [
+        "Qué bajón pasar todo el fin de semana trabajando.",
+        "Как же уныло провести все выходные за работой."
+      ]
+    ]
   },
   {
     "id": 11,
@@ -212,7 +254,21 @@
     ],
     "category": "Работа и быт",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Me da pereza cocinar cuando llego tan tarde del gimnasio.",
+        "Мне лень готовить, когда я так поздно прихожу из зала."
+      ],
+      [
+        "Me da pereza volver al centro solo para buscar el cargador.",
+        "Мне лень возвращаться в центр только за зарядкой."
+      ],
+      [
+        "Los domingos me da pereza salir de casa antes del mediodía.",
+        "По воскресеньям мне лень выходить из дома до полудня."
+      ]
+    ]
   },
   {
     "id": 19,
@@ -235,7 +291,21 @@
     ],
     "category": "Безразличие и отказ",
     "rough": 2,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Ni en pedo cruzo ese puente con este viento.",
+        "Ни за что не пойду по этому мосту в такой ветер."
+      ],
+      [
+        "Ni en pedo pago el doble por el mismo apartamento.",
+        "Ни за что не заплачу вдвое больше за ту же квартиру."
+      ],
+      [
+        "Si van a salir a las cinco de la mañana, ni en pedo me sumo.",
+        "Если выезжаете в пять утра, я ни за что не поеду."
+      ]
+    ]
   },
   {
     "id": 21,
@@ -260,7 +330,21 @@
     ],
     "category": "Сленг",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "De una, te mando la dirección para que vengas directo.",
+        "Договорились, скину адрес, чтобы ты приехал прямо туда."
+      ],
+      [
+        "Si me invitan al recital, voy de una porque me encanta esa banda.",
+        "Если позовут на концерт, соглашусь сразу: обожаю эту группу."
+      ],
+      [
+        "De una, nos vemos después de entrenar y comemos algo.",
+        "Договорились, увидимся после тренировки и перекусим."
+      ]
+    ]
   },
   {
     "id": 23,
@@ -272,7 +356,21 @@
     ],
     "category": "Сленг",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Dale, te paso a buscar cuando salga del trabajo.",
+        "Давай, заеду за тобой, когда выйду с работы."
+      ],
+      [
+        "Dale, reserva una mesa afuera si todavía queda lugar.",
+        "Хорошо, забронируй столик на улице, если ещё есть места."
+      ],
+      [
+        "Dale, mañana te confirmo a qué hora puedo ir.",
+        "Договорились, завтра уточню, во сколько смогу прийти."
+      ]
+    ]
   },
   {
     "id": 24,
@@ -305,7 +403,21 @@
     ],
     "category": "Флирт",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Me caes bien porque siempre dices lo que piensas.",
+        "Ты мне нравишься, потому что всегда говоришь, что думаешь."
+      ],
+      [
+        "Me caes bien desde que nos conocimos en el gimnasio.",
+        "Ты мне симпатичен с тех пор, как мы познакомились в зале."
+      ],
+      [
+        "Me caes bien y me gustaría que nos viéramos más seguido.",
+        "Ты мне симпатичен, и мне хотелось бы чаще видеться."
+      ]
+    ]
   },
   {
     "id": 27,
@@ -316,7 +428,21 @@
     ],
     "category": "Флирт",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Me gustas más cada vez que salimos juntos.",
+        "Ты нравишься мне всё больше с каждой нашей встречей."
+      ],
+      [
+        "Me gustas y quería decírtelo antes de irme.",
+        "Ты мне нравишься, и я хотел сказать тебе это перед отъездом."
+      ],
+      [
+        "Me gustas porque contigo puedo hablar de cualquier cosa.",
+        "Ты мне нравишься, потому что с тобой можно поговорить о чём угодно."
+      ]
+    ]
   },
   {
     "id": 28,
@@ -338,7 +464,21 @@
     ],
     "category": "Флирт",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Te extraño cada vez que paso por el bar donde nos conocimos.",
+        "Я скучаю по тебе каждый раз, когда прохожу мимо бара, где мы познакомились."
+      ],
+      [
+        "Te extraño más los domingos, cuando la ciudad está tan tranquila.",
+        "По воскресеньям я скучаю по тебе сильнее, когда город такой тихий."
+      ],
+      [
+        "Te extraño y tengo ganas de volver a caminar contigo por la rambla.",
+        "Я скучаю по тебе и хочу снова прогуляться с тобой по набережной."
+      ]
+    ]
   },
   {
     "id": 30,
@@ -452,7 +592,21 @@
     ],
     "category": "Сленг",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "¿Qué onda con el apartamento que fuimos a ver ayer?",
+        "Ну что там с квартирой, которую мы вчера смотрели?"
+      ],
+      [
+        "¿Qué onda si después de entrenar vamos a comer algo?",
+        "Как насчёт того, чтобы после тренировки перекусить?"
+      ],
+      [
+        "¿Qué onda con el plan del sábado si termina lloviendo?",
+        "Что будем делать в субботу, если всё-таки пойдёт дождь?"
+      ]
+    ]
   },
   {
     "id": 40,
@@ -683,7 +837,21 @@
     ],
     "category": "Работа и быт",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "No pasa nada si llegas diez minutos tarde, yo también estoy en camino.",
+        "Ничего страшного, если опоздаешь на десять минут, я тоже ещё в пути."
+      ],
+      [
+        "No pasa nada si hoy no puedes venir, nos vemos mañana.",
+        "Ничего страшного, если сегодня не можешь прийти, увидимся завтра."
+      ],
+      [
+        "No pasa nada por equivocarte cuando estás aprendiendo.",
+        "Ошибаться в процессе учёбы — ничего страшного."
+      ]
+    ]
   },
   {
     "id": 61,
@@ -707,7 +875,21 @@
     ],
     "category": "Ошибки и неприятности",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Me colgué hablando con un amigo y perdí el último ómnibus.",
+        "Я заболтался с другом и пропустил последний автобус."
+      ],
+      [
+        "Me colgué y no te mandé la dirección antes de salir.",
+        "Я затупил и не отправил тебе адрес перед выходом."
+      ],
+      [
+        "Me colgué con el trabajo y ni miré el teléfono en toda la tarde.",
+        "Я увлёкся работой и весь день после обеда даже не смотрел в телефон."
+      ]
+    ]
   },
   {
     "id": 63,
@@ -1006,7 +1188,21 @@
     ],
     "category": "Работа и быт",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Estoy en camino y calculo que llego en veinte minutos.",
+        "Я в пути, думаю, буду минут через двадцать."
+      ],
+      [
+        "Estoy en camino al gimnasio, pero puedo pasar por tu casa después.",
+        "Я еду в зал, но потом могу заехать к тебе."
+      ],
+      [
+        "Ya estoy en camino, así que espérame cerca de la entrada.",
+        "Я уже еду, так что подожди меня у входа."
+      ]
+    ]
   },
   {
     "id": 90,
@@ -1105,7 +1301,21 @@
     ],
     "category": "Сленг",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Tranqui, tengo una copia de las llaves en la mochila.",
+        "Спокойно, у меня в рюкзаке есть запасные ключи."
+      ],
+      [
+        "Tranqui, puedes avisarme mañana si todavía no estás seguro.",
+        "Не переживай, можешь сказать завтра, если пока не уверен."
+      ],
+      [
+        "Quédate tranqui, llegamos con tiempo de sobra para el vuelo.",
+        "Не волнуйся, на рейс успеем с большим запасом."
+      ]
+    ]
   },
   {
     "id": 99,
@@ -1271,7 +1481,21 @@
     ],
     "category": "Сленг",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "No tengo un mango hasta que me paguen el viernes.",
+        "У меня ни гроша, пока в пятницу не заплатят."
+      ],
+      [
+        "Después de pagar el alquiler, no tengo un mango para salir.",
+        "После оплаты аренды у меня ни гроша на развлечения."
+      ],
+      [
+        "No tengo un mango encima, pero puedo pagar con tarjeta.",
+        "У меня при себе ни гроша наличными, но могу заплатить картой."
+      ]
+    ]
   },
   {
     "id": 114,
@@ -1688,7 +1912,21 @@
     ],
     "category": "Мат и раздражение",
     "rough": 0,
-    "context": "Разговорное выражение; учитывай ситуацию и регион."
+    "context": "Разговорное выражение; учитывай ситуацию и регион.",
+    "examples": [
+      [
+        "Me da bronca que hayan cancelado la clase sin avisar.",
+        "Меня бесит, что отменили занятие и не предупредили."
+      ],
+      [
+        "Me da bronca perder el tiempo buscando algo que dejé en casa.",
+        "Меня бесит тратить время на поиски того, что я оставил дома."
+      ],
+      [
+        "Me da bronca cuando alguien promete llamar y después desaparece.",
+        "Меня бесит, когда кто-то обещает позвонить, а потом пропадает."
+      ]
+    ]
   },
   {
     "id": 151,
