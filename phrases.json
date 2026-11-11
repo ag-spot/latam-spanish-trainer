@@ -2064,5 +2064,2048 @@
     "category": "Работа и быт",
     "rough": 0,
     "context": "Разговорное выражение; учитывай ситуацию и регион."
+  },
+  {
+    "id": 185,
+    "es": "Laburar",
+    "ru": "Работать",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Разговорный синоним trabajar."
+  },
+  {
+    "id": 186,
+    "es": "Luca",
+    "ru": "Тысяча песо / тысяча денежных единиц",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Значение суммы зависит от страны."
+  },
+  {
+    "id": 187,
+    "es": "Largar",
+    "ru": "Отпустить; бросить; выпустить",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Значение зависит от контекста."
+  },
+  {
+    "id": 188,
+    "es": "Laucha",
+    "ru": "Крыса; мелочный или подлый человек",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Буквально мелкий грызун."
+  },
+  {
+    "id": 189,
+    "es": "Lavado",
+    "ru": "Отстойный, невыразительный",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "В зависимости от контекста."
+  },
+  {
+    "id": 190,
+    "es": "Lento",
+    "ru": "Тормоз, тугодум",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Буквально медленный."
+  },
+  {
+    "id": 191,
+    "es": "Limosna",
+    "ru": "Милостыня",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Обычное существительное."
+  },
+  {
+    "id": 192,
+    "es": "Loca",
+    "ru": "Сумасшедшая; чокнутая",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Может быть дружеским или оскорбительным."
+  },
+  {
+    "id": 193,
+    "es": "Lomo",
+    "ru": "Мясная вырезка; привлекательное тело",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Контекст решает."
+  },
+  {
+    "id": 194,
+    "es": "Lungа",
+    "ru": "Высокий и худой человек",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Также lunfardo."
+  },
+  {
+    "id": 195,
+    "es": "Macanudo",
+    "ru": "Отличный, классный",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Типичное одобрение."
+  },
+  {
+    "id": 196,
+    "es": "Macana",
+    "ru": "Ерунда; ошибка; неприятность",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "¡Qué macana! — Вот досада!"
+  },
+  {
+    "id": 197,
+    "es": "Macanear",
+    "ru": "Нести чушь; врать",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорный глагол."
+  },
+  {
+    "id": 198,
+    "es": "Machete",
+    "ru": "Шпаргалка",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "В другом контексте — мачете."
+  },
+  {
+    "id": 199,
+    "es": "Maricón",
+    "ru": "Трус; оскорбление с гомофобным оттенком",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Оскорбительное, лучше избегать."
+  },
+  {
+    "id": 200,
+    "es": "Marquero",
+    "ru": "Любитель брендов; понторез",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Региональное, контекстно."
+  },
+  {
+    "id": 201,
+    "es": "Mala leche",
+    "ru": "Злой умысел; подлость; невезение",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "¡Qué mala leche! — Как не повезло!"
+  },
+  {
+    "id": 202,
+    "es": "Mamarracho",
+    "ru": "Посмешище; нелепый тип",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Пренебрежительное."
+  },
+  {
+    "id": 203,
+    "es": "Mandarse",
+    "ru": "Решиться; рвануть; выкинуть что-то",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Mandarse una macana — накосячить."
+  },
+  {
+    "id": 204,
+    "es": "Mandar fruta",
+    "ru": "Нести чушь; выдумывать на ходу",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное выражение."
+  },
+  {
+    "id": 205,
+    "es": "Mandadero",
+    "ru": "Человек на побегушках",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Также посыльный."
+  },
+  {
+    "id": 206,
+    "es": "Manguero",
+    "ru": "Попрошайка; тот, кто постоянно клянчит",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "От manguear — клянчить."
+  },
+  {
+    "id": 207,
+    "es": "Mango",
+    "ru": "Деньги; песо",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "No tengo un mango — У меня ни гроша."
+  },
+  {
+    "id": 208,
+    "es": "Marrón",
+    "ru": "Неприятность; проблема",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Регионально."
+  },
+  {
+    "id": 209,
+    "es": "Mina",
+    "ru": "Девушка; женщина",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Разговорное, иногда фамильярное."
+  },
+  {
+    "id": 210,
+    "es": "Milonga",
+    "ru": "Болтовня; отговорки; также танец",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Зависит от контекста."
+  },
+  {
+    "id": 211,
+    "es": "Moco",
+    "ru": "Косяк; промах",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Mandarse un moco — облажаться."
+  },
+  {
+    "id": 212,
+    "es": "Morfаr",
+    "ru": "Жрать; есть",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное от lunfardo."
+  },
+  {
+    "id": 213,
+    "es": "Moscа",
+    "ru": "Деньги, наличка",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Региональное значение."
+  },
+  {
+    "id": 214,
+    "es": "Mufa",
+    "ru": "Невезение; дурная примета",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "¡Qué mufa! — Вот невезуха!"
+  },
+  {
+    "id": 215,
+    "es": "Mufar",
+    "ru": "Сглазить",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Разговорное."
+  },
+  {
+    "id": 216,
+    "es": "Nabo",
+    "ru": "Дурак; лох",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Мягкое оскорбление."
+  },
+  {
+    "id": 217,
+    "es": "Ñata",
+    "ru": "Нос",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "В разговорной речи."
+  },
+  {
+    "id": 218,
+    "es": "Ñoqui",
+    "ru": "Бездельник на зарплате",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "О работнике, который получает деньги, почти не работая."
+  },
+  {
+    "id": 219,
+    "es": "Ojete",
+    "ru": "Жопа; везение",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "¡Qué ojete! — Ну и повезло!"
+  },
+  {
+    "id": 220,
+    "es": "Onda",
+    "ru": "Атмосфера; настроение; вайб",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Buena onda — позитивный человек / приятная атмосфера."
+  },
+  {
+    "id": 221,
+    "es": "Orto",
+    "ru": "Жопа; везение",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Tener orto — иметь большое везение."
+  },
+  {
+    "id": 222,
+    "es": "Pachanga",
+    "ru": "Тусовка; вечеринка",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Неформально."
+  },
+  {
+    "id": 223,
+    "es": "Pachorra",
+    "ru": "Лень; медлительность",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Состояние расслабленной неторопливости."
+  },
+  {
+    "id": 224,
+    "es": "Pajero",
+    "ru": "Дрочила; ленивый придурок",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Грубое оскорбление."
+  },
+  {
+    "id": 225,
+    "es": "Palo",
+    "ru": "Миллион (денег); палка; удар",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Un palo verde — миллион долларов."
+  },
+  {
+    "id": 226,
+    "es": "Palo verde",
+    "ru": "Миллион долларов",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Зелёные — доллары."
+  },
+  {
+    "id": 227,
+    "es": "Pancho",
+    "ru": "Наивный простак; хот-дог",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Региональное, зависит от контекста."
+  },
+  {
+    "id": 228,
+    "es": "Papanatas",
+    "ru": "Придурок; простак",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Не очень грубое."
+  },
+  {
+    "id": 229,
+    "es": "Paparulo",
+    "ru": "Дурачок; идиот",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 230,
+    "es": "Papear",
+    "ru": "Болтать; обсуждать",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Регионально и контекстно."
+  },
+  {
+    "id": 231,
+    "es": "Papelón",
+    "ru": "Позор; конфуз",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "¡Qué papelón! — Какой позор!"
+  },
+  {
+    "id": 232,
+    "es": "Papo",
+    "ru": "Папа; известный аргентинский блюзовый музыкант",
+    "region": [
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Контекстно."
+  },
+  {
+    "id": 233,
+    "es": "Parir",
+    "ru": "Рожать; тяжело мучиться",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Me costó un parto — далось с трудом."
+  },
+  {
+    "id": 234,
+    "es": "Patovica",
+    "ru": "Вышибала; охранник клуба",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Разговорное."
+  },
+  {
+    "id": 235,
+    "es": "Pava",
+    "ru": "Чайник; дура; также мате-культура",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "В Уругвае и Аргентине pava — чайник для воды."
+  },
+  {
+    "id": 236,
+    "es": "Pedir",
+    "ru": "Просить; заказывать",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Базовый глагол."
+  },
+  {
+    "id": 237,
+    "es": "Pelotudo",
+    "ru": "Мудак; идиот",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Может быть дружеским среди близких, но грубо."
+  },
+  {
+    "id": 238,
+    "es": "Pelotuda",
+    "ru": "Дура; идиотка",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Грубое обращение."
+  },
+  {
+    "id": 239,
+    "es": "Pelotazo",
+    "ru": "Сильный удар мячом; неожиданная удача",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Контекстно."
+  },
+  {
+    "id": 240,
+    "es": "Pelotón",
+    "ru": "Взвод; группа",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Обычное слово."
+  },
+  {
+    "id": 241,
+    "es": "Peluca",
+    "ru": "Парик",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Буквальное значение."
+  },
+  {
+    "id": 242,
+    "es": "Pendejo",
+    "ru": "Подросток; сопляк",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "В Мексике и ряде стран грубее."
+  },
+  {
+    "id": 243,
+    "es": "Pepa",
+    "ru": "Таблетка экстази; глаз; семечко",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Сленг зависит от контекста."
+  },
+  {
+    "id": 244,
+    "es": "Perno",
+    "ru": "Зануда; неприятный человек",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 245,
+    "es": "Pesado",
+    "ru": "Назойливый; тяжёлый",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "¡Qué pesado! — Как достал!"
+  },
+  {
+    "id": 246,
+    "es": "Pesto",
+    "ru": "Разгром; избиение; соус песто",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное значение зависит от контекста."
+  },
+  {
+    "id": 247,
+    "es": "Pibe",
+    "ru": "Парень; пацан",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Повседневное слово."
+  },
+  {
+    "id": 248,
+    "es": "Piba",
+    "ru": "Девчонка",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Повседневное слово."
+  },
+  {
+    "id": 249,
+    "es": "Picar",
+    "ru": "Злиться; завидовать; клевать",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Значения контекстны."
+  },
+  {
+    "id": 250,
+    "es": "Pichón",
+    "ru": "Новичок; неопытный",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Буквально птенец."
+  },
+  {
+    "id": 251,
+    "es": "Piola",
+    "ru": "Классный; умный; хитрый",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Очень частое слово."
+  },
+  {
+    "id": 252,
+    "es": "Pipi cucú",
+    "ru": "Шикарно; высший класс",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Разговорное, шутливое."
+  },
+  {
+    "id": 253,
+    "es": "Pirado",
+    "ru": "Чокнутый; безумный",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 254,
+    "es": "Piropear",
+    "ru": "Делать комплименты; подкатывать",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Иногда про навязчивые комментарии."
+  },
+  {
+    "id": 255,
+    "es": "Piropos",
+    "ru": "Комплименты; подкат",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Существительное во множественном числе."
+  },
+  {
+    "id": 256,
+    "es": "Pucho",
+    "ru": "Сигарета",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Разговорное."
+  },
+  {
+    "id": 257,
+    "es": "Pulmón",
+    "ru": "Лёгкое",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Анатомическое значение."
+  },
+  {
+    "id": 258,
+    "es": "Putear",
+    "ru": "Материться; обругать",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Грубая речь."
+  },
+  {
+    "id": 259,
+    "es": "Putarraca",
+    "ru": "Шлюха; грубое оскорбление женщины",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Крайне оскорбительное."
+  },
+  {
+    "id": 260,
+    "es": "Rajar",
+    "ru": "Свалить; убежать; выгнать",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "¡Rajá de acá! — Вали отсюда!"
+  },
+  {
+    "id": 261,
+    "es": "Rascarse",
+    "ru": "Ничего не делать; чесаться",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Rascarse las bolas — бездельничать."
+  },
+  {
+    "id": 262,
+    "es": "Raviol",
+    "ru": "Пакетик кокаина",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Наркосленг."
+  },
+  {
+    "id": 263,
+    "es": "Rebusque",
+    "ru": "Подработка; способ выкрутиться",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Buscarse el rebusque — находить заработок."
+  },
+  {
+    "id": 264,
+    "es": "Rollingа",
+    "ru": "Фанат Rolling Stones; рокер",
+    "region": [
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Аргентинская субкультура."
+  },
+  {
+    "id": 265,
+    "es": "Rollo",
+    "ru": "Проблема; заморочка",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Регионально."
+  },
+  {
+    "id": 266,
+    "es": "Sacado",
+    "ru": "Вышедший из себя; безумный",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Estar sacado — быть в бешенстве."
+  },
+  {
+    "id": 267,
+    "es": "Salado",
+    "ru": "Очень крутой; сложный; дорогой",
+    "region": [
+      "Uruguay"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "В Уругвае очень распространено."
+  },
+  {
+    "id": 268,
+    "es": "Salame",
+    "ru": "Дурак; придурок",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Также салями."
+  },
+  {
+    "id": 269,
+    "es": "Sanata",
+    "ru": "Пустая болтовня; лапша на уши",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 270,
+    "es": "Sanguango",
+    "ru": "Болван; придурок",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Регионально."
+  },
+  {
+    "id": 271,
+    "es": "Sorete",
+    "ru": "Говнюк; кусок дерьма",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Грубое оскорбление."
+  },
+  {
+    "id": 272,
+    "es": "Sopapo",
+    "ru": "Пощёчина; оплеуха",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 273,
+    "es": "Tachо",
+    "ru": "Мусорка; ведро; такси",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Зависит от страны и контекста."
+  },
+  {
+    "id": 274,
+    "es": "Tacho",
+    "ru": "Мусорка; ведро; такси",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Орфография без акцента."
+  },
+  {
+    "id": 275,
+    "es": "Tajo",
+    "ru": "Разрез; грубое название влагалища",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Контекстно, второе значение вульгарно."
+  },
+  {
+    "id": 276,
+    "es": "Tano",
+    "ru": "Итальянец",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Часто прозвище."
+  },
+  {
+    "id": 277,
+    "es": "Tapera",
+    "ru": "Заброшенный дом; развалина",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Регионально."
+  },
+  {
+    "id": 278,
+    "es": "Taxi boy",
+    "ru": "Мужчина-проститут",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 279,
+    "es": "Tilingo",
+    "ru": "Сноб; пустоголовый",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 280,
+    "es": "Timba",
+    "ru": "Азартная игра",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Разговорное."
+  },
+  {
+    "id": 281,
+    "es": "Tipo",
+    "ru": "Мужик; тип",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Очень распространённое."
+  },
+  {
+    "id": 282,
+    "es": "Toque",
+    "ru": "Прикосновение; чуть-чуть",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "En un toque — через минуту."
+  },
+  {
+    "id": 283,
+    "es": "Tordo",
+    "ru": "Врач",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Устаревающий разговорный сленг."
+  },
+  {
+    "id": 284,
+    "es": "Tornillo",
+    "ru": "Винт; шуруп",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Обычное слово."
+  },
+  {
+    "id": 285,
+    "es": "Tortillera",
+    "ru": "Лесбиянка (оскорбительное)",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Грубое, дискриминационное."
+  },
+  {
+    "id": 286,
+    "es": "Tragar",
+    "ru": "Глотать; проглатывать",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Базовый глагол."
+  },
+  {
+    "id": 287,
+    "es": "Transar",
+    "ru": "Целоваться; мутить; договариваться",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "В Аргентине также целоваться/обжиматься."
+  },
+  {
+    "id": 288,
+    "es": "Traste",
+    "ru": "Задница",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 289,
+    "es": "Trava",
+    "ru": "Транс-женщина / травести (часто оскорбительно)",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Лучше избегать как обозначение человека."
+  },
+  {
+    "id": 290,
+    "es": "Trolo",
+    "ru": "Гей (гомофобное оскорбление)",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Грубое и дискриминационное."
+  },
+  {
+    "id": 291,
+    "es": "Trompada",
+    "ru": "Удар кулаком в лицо",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 292,
+    "es": "Trucho",
+    "ru": "Поддельный; фальшивый",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Muy común."
+  },
+  {
+    "id": 293,
+    "es": "Tubazo",
+    "ru": "Телефонный звонок",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Разговорное."
+  },
+  {
+    "id": 294,
+    "es": "Tufo",
+    "ru": "Вонь; неприятный запах",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Часто о запахе изо рта."
+  },
+  {
+    "id": 295,
+    "es": "Ubicarse",
+    "ru": "Знать своё место; вести себя прилично",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "¡Ubicate! — Веди себя нормально!"
+  },
+  {
+    "id": 296,
+    "es": "Vivir de arriba",
+    "ru": "Жить за чужой счёт",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 297,
+    "es": "Viveza criolla",
+    "ru": "Хитрость ради собственной выгоды",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Социально-культурное выражение."
+  },
+  {
+    "id": 298,
+    "es": "Yapa",
+    "ru": "Бонус; добавка бесплатно",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Дать немного сверх покупки."
+  },
+  {
+    "id": 299,
+    "es": "Yegua",
+    "ru": "Стерва; грубое обращение к женщине",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 2,
+    "context": "Буквально кобыла."
+  },
+  {
+    "id": 300,
+    "es": "Yuta",
+    "ru": "Полиция; менты",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Пренебрежительное."
+  },
+  {
+    "id": 301,
+    "es": "Zafar",
+    "ru": "Выкрутиться; отделаться",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Zafé — пронесло."
+  },
+  {
+    "id": 302,
+    "es": "Zarpado",
+    "ru": "Офигенный; чрезмерный; наглый",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Может быть похвалой или критикой."
+  },
+  {
+    "id": 303,
+    "es": "Zarpаr",
+    "ru": "Перегнуть палку; выйти за рамки",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 304,
+    "es": "Zoquete",
+    "ru": "Тупица; болван",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 305,
+    "es": "No le llega agua al tanque",
+    "ru": "У него не все дома",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Буквально вода не доходит до бака."
+  },
+  {
+    "id": 306,
+    "es": "A las chapas",
+    "ru": "На полной скорости",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "О скорости движения."
+  },
+  {
+    "id": 307,
+    "es": "Arrastrar el ala",
+    "ru": "Подкатывать; ухаживать",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Идиома."
+  },
+  {
+    "id": 308,
+    "es": "Lo atamos con alambre",
+    "ru": "Сделаем на соплях; кое-как починим",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Про импровизированное решение."
+  },
+  {
+    "id": 309,
+    "es": "Bajá un cambio",
+    "ru": "Притормози; успокойся",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Форма voseo, очень местная."
+  },
+  {
+    "id": 310,
+    "es": "Billetera mata galán",
+    "ru": "Деньги побеждают обаяние",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Шутливая поговорка."
+  },
+  {
+    "id": 311,
+    "es": "Cara rota",
+    "ru": "Бесстыжий; наглец",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Лицо без стыда."
+  },
+  {
+    "id": 312,
+    "es": "Caer como peludo de regalo",
+    "ru": "Появиться некстати; незваным гостем",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Местная идиома."
+  },
+  {
+    "id": 313,
+    "es": "Calavera no chilla",
+    "ru": "Сам виноват — не жалуйся",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Поговорка."
+  },
+  {
+    "id": 314,
+    "es": "Calienta la pava pero no ceba los mates",
+    "ru": "Дразнит, но не доводит до дела",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Метафора мате, часто о флирте."
+  },
+  {
+    "id": 315,
+    "es": "Cerrado como culo de muñeca",
+    "ru": "Наглухо закрытый; очень скрытный",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 2,
+    "context": "Грубая идиома."
+  },
+  {
+    "id": 316,
+    "es": "Comerse un huesito",
+    "ru": "Переспать с некрасивой женщиной",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 2,
+    "context": "Унизительное выражение."
+  },
+  {
+    "id": 317,
+    "es": "No dejar títere con cabeza",
+    "ru": "Разнести всё; никого не пощадить",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Идиома."
+  },
+  {
+    "id": 318,
+    "es": "Dejar el tendal",
+    "ru": "Оставить за собой кучу проблем",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Идиома."
+  },
+  {
+    "id": 319,
+    "es": "Echando putas como cabrera",
+    "ru": "Ругаться как сапожник",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 2,
+    "context": "Очень региональное выражение."
+  },
+  {
+    "id": 320,
+    "es": "Echar un cloro",
+    "ru": "Посcать",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Грубовато-разговорное."
+  },
+  {
+    "id": 321,
+    "es": "Echar un polvo",
+    "ru": "Трахнуться",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 2,
+    "context": "Чаще в Испании; в LATAM понятно не везде."
+  },
+  {
+    "id": 322,
+    "es": "Echar panza",
+    "ru": "Облениться; отрастить живот",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Контекстно."
+  },
+  {
+    "id": 323,
+    "es": "Estar en el horno",
+    "ru": "Быть в полной жопе; влипнуть",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Очень распространено."
+  },
+  {
+    "id": 324,
+    "es": "Estirar la pierna",
+    "ru": "Умереть",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Эвфемизм."
+  },
+  {
+    "id": 325,
+    "es": "Faltan cinco pal peso",
+    "ru": "Не хватает ума; не хватает совсем чуть-чуть",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Идиома."
+  },
+  {
+    "id": 326,
+    "es": "Flor de...",
+    "ru": "Настоящий / огромный / выдающийся...",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Flor de quilombo — огромный бардак."
+  },
+  {
+    "id": 327,
+    "es": "Hacer gancho",
+    "ru": "Свести людей; выступить посредником",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Часто о знакомствах."
+  },
+  {
+    "id": 328,
+    "es": "Hablar hasta por los codos",
+    "ru": "Болтать без умолку",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Распространённая идиома."
+  },
+  {
+    "id": 329,
+    "es": "Hacerse el muerto",
+    "ru": "Прикидываться мёртвым; не реагировать",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Контекстно."
+  },
+  {
+    "id": 330,
+    "es": "Hasta las manos",
+    "ru": "По уши; завален делами",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Estoy hasta las manos — я по уши занят."
+  },
+  {
+    "id": 331,
+    "es": "No me hinches las pelotas",
+    "ru": "Не еби мне мозги",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 2,
+    "context": "Очень грубо."
+  },
+  {
+    "id": 332,
+    "es": "No pesca un fulbo",
+    "ru": "Совсем не соображает",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Fulbo — футбол."
+  },
+  {
+    "id": 333,
+    "es": "No da",
+    "ru": "Не годится; так нельзя; неуместно",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Частое разговорное выражение."
+  },
+  {
+    "id": 334,
+    "es": "No hay tu tía",
+    "ru": "Ничего не поделаешь",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Идиома."
+  },
+  {
+    "id": 335,
+    "es": "Pájaro atrás",
+    "ru": "Идти задом наперёд; пятиться",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Редкое региональное."
+  },
+  {
+    "id": 336,
+    "es": "Pará la mano",
+    "ru": "Остановись; хватит",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Voseo, местное."
+  },
+  {
+    "id": 337,
+    "es": "Qué parte de ... no entendés",
+    "ru": "Какую часть ... ты не понимаешь?",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Раздражённая реплика, voseo."
+  },
+  {
+    "id": 338,
+    "es": "Qué pito toca",
+    "ru": "Какое это имеет отношение?",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Разговорное."
+  },
+  {
+    "id": 339,
+    "es": "Al pedo como teta de monja",
+    "ru": "Совершенно бесполезный",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 2,
+    "context": "Грубая идиома."
+  },
+  {
+    "id": 340,
+    "es": "Pelo pa la vieja",
+    "ru": "Неожиданный успех",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 0,
+    "context": "Региональная фраза, значение зависит от контекста."
+  },
+  {
+    "id": 341,
+    "es": "Ponerle la camiseta",
+    "ru": "Выложиться за команду",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Буквально надеть футболку команды."
+  },
+  {
+    "id": 342,
+    "es": "Por qué cara me mirás",
+    "ru": "Чего уставился?",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Разговорная реплика."
+  },
+  {
+    "id": 343,
+    "es": "Qué quemada",
+    "ru": "Какой позор; как неловко",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 1,
+    "context": "Зависит от контекста."
+  },
+  {
+    "id": 344,
+    "es": "Sacar los trapitos al sol",
+    "ru": "Вытащить грязное бельё наружу",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Идиома."
+  },
+  {
+    "id": 345,
+    "es": "Tirar la goma",
+    "ru": "Сделать минет",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 2,
+    "context": "Вульгарное."
+  },
+  {
+    "id": 346,
+    "es": "Tirar la casa por la ventana",
+    "ru": "Пустить пыль в глаза; устроить роскошный праздник",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Идиома."
+  },
+  {
+    "id": 347,
+    "es": "Tirar las agujas",
+    "ru": "Подкатывать; проявлять интерес",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Региональное."
+  },
+  {
+    "id": 348,
+    "es": "Tirar los galgos",
+    "ru": "Подкатывать; клеиться",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Идиома."
+  },
+  {
+    "id": 349,
+    "es": "Tirar un palo",
+    "ru": "Намекнуть; закинуть удочку",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Идиома."
+  },
+  {
+    "id": 350,
+    "es": "Tomalo con soda",
+    "ru": "Не принимай близко к сердцу",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Расслабься."
+  },
+  {
+    "id": 351,
+    "es": "Tomar el pelo",
+    "ru": "Подшучивать; дурачить",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Очень распространённое."
+  },
+  {
+    "id": 352,
+    "es": "Tomátela",
+    "ru": "Вали отсюда",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Сленг из книги",
+    "rough": 1,
+    "context": "Voseo, грубоватое."
+  },
+  {
+    "id": 353,
+    "es": "Tener una vena",
+    "ru": "Быть в ярости",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Сокращённое разговорное."
+  },
+  {
+    "id": 354,
+    "es": "Ponerse la camiseta",
+    "ru": "Выложиться ради команды",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Идиома."
+  },
+  {
+    "id": 355,
+    "es": "Ponerse las pilas",
+    "ru": "Собраться; взяться за дело",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Идиома."
+  },
+  {
+    "id": 356,
+    "es": "La verdad de la milanesa",
+    "ru": "Истинная правда; суть дела",
+    "region": [
+      "Uruguay",
+      "Argentina"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Популярная идиома."
+  },
+  {
+    "id": 357,
+    "es": "No todo lo que brilla es oro",
+    "ru": "Не всё то золото, что блестит",
+    "region": [
+      "LATAM"
+    ],
+    "category": "Идиомы и поговорки",
+    "rough": 0,
+    "context": "Пословица."
   }
 ]
