@@ -4866,5 +4866,239 @@
         "Он прикинулся дурачком, когда спросили, кто разбил стакан."
       ]
     ]
+  },
+  {
+    "id": 359,
+    "es": "Me acordé de ti ayer.",
+    "ru": "Вчера я вспомнил о тебе.",
+    "region": [
+      "LATAM",
+      "Uruguay"
+    ],
+    "category": "Разговорные конструкции",
+    "rough": 0,
+    "context": "Acordarse de + persona/cosa — вспоминать. Me acuerdo = помню; me acordé = вспомнил. В Уругвае также «me acordé de vos».",
+    "examples": [
+      [
+        "Me acordé de ti cuando pasé por nuestro restaurante.",
+        "Я вспомнил о тебе, когда проходил мимо нашего ресторана."
+      ],
+      [
+        "¿Te acuerdas de la chica que conocimos el sábado?",
+        "Помнишь девушку, с которой мы познакомились в субботу?"
+      ],
+      [
+        "No me acuerdo de dónde dejé las llaves.",
+        "Не помню, где оставил ключи."
+      ]
+    ]
+  },
+  {
+    "id": 360,
+    "es": "Justo estaba por escribirte.",
+    "ru": "Я как раз собирался тебе написать.",
+    "region": [
+      "LATAM",
+      "Uruguay"
+    ],
+    "category": "Разговорные конструкции",
+    "rough": 0,
+    "context": "Estar por + infinitivo — вот-вот собираться что-то сделать. Estaba por = собирался в тот момент; justo = как раз.",
+    "examples": [
+      [
+        "Estaba por salir de casa cuando empezó a llover.",
+        "Я собирался выйти из дома, когда начался дождь."
+      ],
+      [
+        "Justo estaba por llamarte para confirmar la hora.",
+        "Я как раз собирался позвонить тебе, чтобы подтвердить время."
+      ],
+      [
+        "Estoy por pedir comida, ¿quieres algo?",
+        "Я собираюсь заказать еду, хочешь что-нибудь?"
+      ]
+    ]
+  },
+  {
+    "id": 361,
+    "es": "Nos conocimos por una app.",
+    "ru": "Мы познакомились через приложение.",
+    "region": [
+      "LATAM",
+      "Uruguay"
+    ],
+    "category": "Разговорные конструкции",
+    "rough": 0,
+    "context": "Conocerse — знакомиться; nos conocimos — познакомились. Donde nos contactamos = где мы связались; donde без ударения в относительном значении.",
+    "examples": [
+      [
+        "La app donde nos conocimos ya no la uso.",
+        "Приложением, где мы познакомились, я уже не пользуюсь."
+      ],
+      [
+        "Nos contactamos por WhatsApp después de hablar en la app.",
+        "Мы связались через WhatsApp после общения в приложении."
+      ],
+      [
+        "Es el bar donde nos vimos por primera vez.",
+        "Это бар, где мы впервые увиделись."
+      ]
+    ]
+  },
+  {
+    "id": 362,
+    "es": "Ya habíamos hablado de eso.",
+    "ru": "Мы уже говорили об этом раньше.",
+    "region": [
+      "LATAM",
+      "Uruguay"
+    ],
+    "category": "Разговорные конструкции",
+    "rough": 0,
+    "context": "Había/habías/habíamos + participio — действие, предшествовавшее другому моменту в прошлом (pluscuamperfecto).",
+    "examples": [
+      [
+        "Cuando llegué, ella ya se había ido.",
+        "Когда я пришёл, она уже ушла."
+      ],
+      [
+        "Pensé que ya habíamos acordado el precio.",
+        "Я думал, что мы уже согласовали цену."
+      ],
+      [
+        "Nunca había probado esa comida antes de venir a Uruguay.",
+        "До приезда в Уругвай я никогда не пробовал эту еду."
+      ]
+    ]
+  },
+  {
+    "id": 363,
+    "es": "No llegamos a salir.",
+    "ru": "Мы так и не сходили на свидание.",
+    "region": [
+      "LATAM",
+      "Uruguay"
+    ],
+    "category": "Разговорные конструкции",
+    "rough": 0,
+    "context": "No llegar a + infinitivo — так и не сделать что-то, хотя была возможность. Salir здесь — встретиться/сходить на свидание.",
+    "examples": [
+      [
+        "Hablamos varias semanas, pero no llegamos a vernos.",
+        "Мы общались несколько недель, но так и не увиделись."
+      ],
+      [
+        "No llegué a terminar el proyecto antes del viaje.",
+        "Я так и не закончил проект до поездки."
+      ],
+      [
+        "Quería preguntarle algo, pero no llegué a hacerlo.",
+        "Я хотел кое-что у неё спросить, но так и не спросил."
+      ]
+    ]
+  },
+  {
+    "id": 364,
+    "es": "Te iba a invitar a tomar algo.",
+    "ru": "Я собирался пригласить тебя что-нибудь выпить.",
+    "region": [
+      "LATAM",
+      "Uruguay"
+    ],
+    "category": "Разговорные конструкции",
+    "rough": 0,
+    "context": "Ir в imperfecto + a + infinitivo: iba a hacer — собирался сделать в прошлом. Te iba a... — хотел тебе...; необязательно действие было прямо сейчас.",
+    "examples": [
+      [
+        "Te iba a escribir, pero se me descargó el teléfono.",
+        "Я собирался тебе написать, но у меня разрядился телефон."
+      ],
+      [
+        "Iba a salir a entrenar, pero me dolía el pie.",
+        "Я собирался идти тренироваться, но у меня болела нога."
+      ],
+      [
+        "Te iba a preguntar si estás libre este fin de semana.",
+        "Я хотел спросить, свободна ли ты в эти выходные."
+      ]
+    ]
+  },
+  {
+    "id": 365,
+    "es": "Si estás por la vuelta, avísame.",
+    "ru": "Если будешь где-то рядом, дай знать.",
+    "region": [
+      "LATAM",
+      "Uruguay"
+    ],
+    "category": "Разговорные конструкции",
+    "rough": 0,
+    "context": "Por la vuelta / en la vuelta — поблизости, в округе (разговорное, Уругвай). Andar por la vuelta = быть где-то рядом.",
+    "examples": [
+      [
+        "¿Andas por la vuelta o estás en Montevideo?",
+        "Ты где-то поблизости или в Монтевидео?"
+      ],
+      [
+        "Estoy por la vuelta, podemos vernos en veinte minutos.",
+        "Я неподалёку, можем увидеться через двадцать минут."
+      ],
+      [
+        "Si pasas por la vuelta mañana, tomamos algo.",
+        "Если завтра будешь в наших краях, выпьем чего-нибудь."
+      ]
+    ]
+  },
+  {
+    "id": 366,
+    "es": "Cuando me respondiste, ya estaba en la cafetería.",
+    "ru": "Когда ты мне ответила, я уже был в кофейне.",
+    "region": [
+      "LATAM",
+      "Uruguay"
+    ],
+    "category": "Разговорные конструкции",
+    "rough": 0,
+    "context": "Cuando + pretérito (разовое завершённое действие) и estaba + состояние/процесс в прошлом. Ya = уже.",
+    "examples": [
+      [
+        "Cuando llegaste, yo ya estaba en casa preparando la cena.",
+        "Когда ты приехала, я уже был дома и готовил ужин."
+      ],
+      [
+        "Cuando me llamaste, estaba trabajando con un cliente.",
+        "Когда ты позвонила, я работал с клиентом."
+      ],
+      [
+        "Cuando te escribí, ya estabas durmiendo.",
+        "Когда я тебе написал, ты уже спала."
+      ]
+    ]
+  },
+  {
+    "id": 367,
+    "es": "Por acá todo bien.",
+    "ru": "У меня тут всё хорошо.",
+    "region": [
+      "LATAM",
+      "Uruguay"
+    ],
+    "category": "Разговорные конструкции",
+    "rough": 0,
+    "context": "Por acá — здесь, у меня/в наших краях; естественный ответ на «¿Cómo estás?».",
+    "examples": [
+      [
+        "Por acá todo bien, trabajando mucho esta semana.",
+        "У меня всё хорошо, много работаю на этой неделе."
+      ],
+      [
+        "¿Y por allá cómo van las cosas?",
+        "А у вас там как дела?"
+      ],
+      [
+        "Por acá está tranquilo, todavía no empezó la temporada.",
+        "Здесь спокойно, сезон ещё не начался."
+      ]
+    ]
   }
 ]
