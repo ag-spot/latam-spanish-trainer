@@ -1,4 +1,4 @@
-const CACHE='latam-v18';
+const CACHE='latam-v19';
 const ASSETS=['./','./index.html','./app.js?v=18','./phrases.json','./manifest.webmanifest','./icon.svg'];
 self.addEventListener('install',event=>{
  event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)).then(()=>self.skipWaiting()));
